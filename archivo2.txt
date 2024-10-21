@@ -1,3 +1,0 @@
-aprendiendo git add
-
-git commit
